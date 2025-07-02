@@ -1,7 +1,0 @@
-# Redirect all traffic to https://www.limatsalogisticsconsultancy.co.za
-https://limatsalogisticsconsultancy.co.za/* https://www.limatsalogisticsconsultancy.co.za/:splat 301!
-http://limatsalogisticsconsultancy.co.za/* https://www.limatsalogisticsconsultancy.co.za/:splat 301!
-http://www.limatsalogisticsconsultancy.co.za/* https://www.limatsalogisticsconsultancy.co.za/:splat 301!
-
-# Force HTTPS
-/* https://www.limatsalogisticsconsultancy.co.za/:splat 301!
